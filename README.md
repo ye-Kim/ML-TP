@@ -14,7 +14,7 @@ Recommend Diabete Diet for day, including preferences of each user.
 - needed kcal for a day
 - diet recommendation
 
-For detail, read <code>Diet_Recommendation.ipynb</code>
+For detail, please read <code>Diet_Recommendation.ipynb</code>
 
 
 ## Team Member
