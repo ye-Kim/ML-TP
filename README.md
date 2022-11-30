@@ -30,13 +30,11 @@ For detail, read <code>Diet_Recommendation.ipynb</code>
 
 ### Data
 - data.csv
-- 
-User data
+<br>User data<br>
 columns: *exercise, gender, age, height, weight, like food, hate food*
 
 - food_unit.csv
-
-Food unit, volume for planning diet
-columns: *품목(food), 용량(g) (volume), 식품군(unit)*
+<br>Food unit, volume for planning diet<br>
+columns: *품목(food), 용량(g) (volume), 식품군(unit)* <br>
 data from Korean Diabetes Association (대한당뇨병학회): https://www.diabetes.or.kr/general/dietary/dietary_03.php?con=3
 
