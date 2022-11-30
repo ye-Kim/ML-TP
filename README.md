@@ -1,4 +1,4 @@
-# ML-TP
+# ML-TP (Team 5)
 ## Project Objective
 Recommend Diabete Diet for day, including preferences of each user.
 
