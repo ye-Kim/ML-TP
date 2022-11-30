@@ -19,7 +19,7 @@ For detail, please read <code>Diet_Recommendation.ipynb</code>
 
 ## Team Member
 - 202035509 Kim Yeeun
-- 202035510 Kim Jisoo
+- 202035512 Kim Jisoo
 - 202035518 Noh Hyungju
 - 202035519 Ma Sunghee
 
